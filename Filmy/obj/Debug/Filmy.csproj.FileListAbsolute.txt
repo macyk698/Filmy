@@ -1,0 +1,11 @@
+D:\Maciej Skopek\Filmy\bin\Debug\Filmy.exe.config
+D:\Maciej Skopek\Filmy\bin\Debug\Filmy.exe
+D:\Maciej Skopek\Filmy\bin\Debug\Filmy.pdb
+D:\Maciej Skopek\Filmy\obj\Debug\Filmy.csproj.AssemblyReference.cache
+D:\Maciej Skopek\Filmy\obj\Debug\Filmy.csproj.SuggestedBindingRedirects.cache
+D:\Maciej Skopek\Filmy\obj\Debug\Filmy.Form1.resources
+D:\Maciej Skopek\Filmy\obj\Debug\Filmy.Properties.Resources.resources
+D:\Maciej Skopek\Filmy\obj\Debug\Filmy.csproj.GenerateResource.cache
+D:\Maciej Skopek\Filmy\obj\Debug\Filmy.csproj.CoreCompileInputs.cache
+D:\Maciej Skopek\Filmy\obj\Debug\Filmy.exe
+D:\Maciej Skopek\Filmy\obj\Debug\Filmy.pdb
